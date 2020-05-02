@@ -314,7 +314,7 @@
             "base": "cpt",
             "quote": "0xbtc",
             "config": {
-                "basePrecision": 8,
+                "basePrecision": 0,
                 "pricePrecision": 8
             }
         },
