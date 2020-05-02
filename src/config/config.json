@@ -20,6 +20,21 @@
             "website": "https://0xbitcoin.org"
         },
         {
+            "decimals": 8,
+            "symbol": "cpt",
+            "name": "Crypto Projects Token",
+            "primaryColor": "#081e6e",
+            "icon": "assets/icons/cpt.svg",
+            "addresses": {
+                "1": "0xfc86c646d2c90e38e0f0af6d0baee4ea95aa4893"
+            },
+            "id": "cptoken",
+            "c_id": "cptoken",
+            "displayDecimals": 0,
+            "description": "The Crypto Projects Token!",
+            "website": "https://www.cpt.io"
+        },
+        {
             "decimals": 18,
             "symbol": "vsf",
             "name": "VeriSafe",
@@ -293,6 +308,14 @@
             "quote": "weth",
             "config": {
                 "basePrecision": 2,
+                "pricePrecision": 8
+            }
+        },
+        {
+            "base": "cpt",
+            "quote": "0xbtc",
+            "config": {
+                "basePrecision": 8,
                 "pricePrecision": 8
             }
         },
