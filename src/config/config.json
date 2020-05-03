@@ -206,18 +206,6 @@
             "website": "https://www.btcsov.com/"
         },
         {
-            "decimals": 5,
-            "displayDecimals": 2,
-            "symbol": "res",
-            "name": "Resfinex",
-            "primaryColor": "#090d21",
-            "icon": "assets/icons/res.svg",
-            "addresses": {
-                "1": "0x0a9f693fce6f00a51a8e0db4351b5a8078b4242e"
-            },
-            "website": "https://resfinex.com/"
-        },
-        {
             "decimals": 2,
             "displayDecimals": 2,
             "symbol": "lit",
@@ -355,22 +343,6 @@
             "quote": "0xbtc",
             "config": {
                 "basePrecision": 2,
-                "pricePrecision": 4
-            }
-        },
-        {
-            "base": "res",
-            "quote": "weth",
-            "config": {
-                "basePrecision": 2,
-                "pricePrecision": 8
-            }
-        },
-        {
-            "base": "res",
-            "quote": "0xbtc",
-            "config": {
-                "basePrecision": 8,
                 "pricePrecision": 4
             }
         },
