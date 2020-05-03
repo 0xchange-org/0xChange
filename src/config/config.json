@@ -234,9 +234,17 @@
     "pairs": [
         {
             "base": "0xbtc",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 6
+            }
+        },
+        {
+            "base": "0xbtc",
             "quote": "vsf",
             "config": {
-                "basePrecision": 0,
+                "basePrecision": 2,
                 "pricePrecision": 6
             }
         },
