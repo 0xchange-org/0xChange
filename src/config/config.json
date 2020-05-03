@@ -1,7 +1,7 @@
 {
     "general": {
-        "title": "0xBitcoin Exchange",
-        "icon": "assets/icons/0xChangeLogo.svg"
+        "title": "xchange",
+        "icon": "assets/icons/0xchange-logotype.svg"
     },
     "tokens": [
         {
