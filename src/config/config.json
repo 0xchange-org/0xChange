@@ -241,10 +241,10 @@
             }
         },
         {
-            "base": "0xbtc",
-            "quote": "vsf",
+            "base": "weth",
+            "quote": "dai",
             "config": {
-                "basePrecision": 2,
+                "basePrecision": 6,
                 "pricePrecision": 6
             }
         },
@@ -257,26 +257,26 @@
             }
         },
         {
-            "base": "vsf",
-            "quote": "weth",
-            "config": {
-                "basePrecision": 0,
-                "pricePrecision": 8
-            }
-        },
-        {
-            "base": "weth",
-            "quote": "dai",
-            "config": {
-                "basePrecision": 6,
-                "pricePrecision": 6
-            }
-        },
-        {
             "base": "usdc",
             "quote": "dai",
             "config": {
                 "basePrecision": 2,
+                "pricePrecision": 8
+            }
+        },
+        {
+            "base": "vsf",
+            "quote": "0xbtc",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 6
+            }
+        },
+        {
+            "base": "vsf",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 0,
                 "pricePrecision": 8
             }
         },
