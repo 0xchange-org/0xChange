@@ -241,6 +241,14 @@
             }
         },
         {
+            "base": "0xbtc",
+            "quote": "vsf",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 6
+            }
+        },
+        {
             "base": "weth",
             "quote": "dai",
             "config": {
@@ -262,14 +270,6 @@
             "config": {
                 "basePrecision": 2,
                 "pricePrecision": 8
-            }
-        },
-        {
-            "base": "vsf",
-            "quote": "0xbtc",
-            "config": {
-                "basePrecision": 2,
-                "pricePrecision": 6
             }
         },
         {
