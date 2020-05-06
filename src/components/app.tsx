@@ -16,7 +16,7 @@ import {
     initConfigData,
     initializeAppWallet,
     initTheme,
-    initWallet, setThemeName,
+    initWallet,
     updateERC20Markets,
     updateMarketPriceEther,
     updateMarketPriceQuote,
