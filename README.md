@@ -6,7 +6,7 @@
 [![devDependencies Status](https://david-dm.org/verisafe/veridex/dev-status.svg)](https://david-dm.org/verisafe/veridex?type=dev)
 [![Coverage Status](https://coveralls.io/repos/github/VeriSafe/VeriDex/badge.svg?branch=development)](https://coveralls.io/github/VeriSafe/VeriDex?branch=development)
 
-This project is forked from [0x-launch-kit-fronted](https://github/0xproject/0x-launch-kit-frontend) and it have a goal to be the most complete open-source 0x based dex out there. The code here will try to be on sync with the 0x frontend, but with the additional features proposed on the TODO, tests will be include following 0x style.
+This project is forked from [0x-launch-kit-frontend](https://github.com/0xproject/0x-launch-kit-frontend) and it have a goal to be the most complete open-source 0x based dex out there. The code here will try to be on sync with the 0x frontend, but with the additional features proposed on the TODO, tests will be include following 0x style.
 
 This source code is used on the [VeriSafe Dex as a service](https://steemit.com/zerox/@joaocampos/veridex-network-dex-as-a-service).
 
